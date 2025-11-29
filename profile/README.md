@@ -1,4 +1,4 @@
-## Wassup
+## Yo
 
 NovemberFork creates and contributes to open source software, mostly in the web3 space, but others as well. We also sell on-chain and off-chain products on our mainsite.
 
