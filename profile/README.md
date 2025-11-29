@@ -1,6 +1,6 @@
-## Yo
+# NovemberFork
 
-NovemberFork creates and contributes to open source software, mostly in the web3 space, but others as well. We also sell on-chain and off-chain products on our mainsite.
+NovemberFork creates and contributes to open source software, mostly in the web3 space, but other ecosytems as well.
 
 ## Mainsite
 
