@@ -4,7 +4,7 @@ NovemberFork creates and contributes to open source software, mostly in the web3
 
 ## Mainsite
 
-Our landing page and any in-house applications/products can be found at [NovemberFork.io](https://novemberfork.io)
+Our landing page and any in-house applications/products can be found at [novemberfork.io](https://novemberfork.io)
 
 <!--
 
